@@ -1,0 +1,315 @@
+<mxfile host="app.diagrams.net" modified="2024-05-04T22:04:10.634Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="RNjyjAEgQ8SLeJtOg3j-" version="24.3.1" type="device">
+  <diagram name="Страница — 1" id="HUKCngdIdoDs0HZhEfSQ">
+    <mxGraphModel dx="2501" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NRf6T1NoVGA92quWr3LB-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-1" target="NRf6T1NoVGA92quWr3LB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="50" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-3" target="NRf6T1NoVGA92quWr3LB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-3" value="Ввод dim" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-5" target="NRf6T1NoVGA92quWr3LB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-5" target="NRf6T1NoVGA92quWr3LB-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-5" value="dim == 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-6" target="NRf6T1NoVGA92quWr3LB-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-6" value="Ввод Array[i]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="351" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-7" target="NRf6T1NoVGA92quWr3LB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-7" target="NRf6T1NoVGA92quWr3LB-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-7" value="dim == 2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-8" value="Ввод Array[i,j]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="383" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-13" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="410" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-14" target="NRf6T1NoVGA92quWr3LB-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-14" value="Print error" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-18" value="Print enter array[i]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="270" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-19" value="Print enter array[i]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="323" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-22" value="Yes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-23" value="No" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-24" value="No" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-25" value="Yes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="511" y="781" as="sourcePoint" />
+            <mxPoint x="511" y="828" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-48" value="str.Lebgth&amp;nbsp;&lt;div&gt;&amp;lt;= 3&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="701" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-52" target="NRf6T1NoVGA92quWr3LB-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="511" y="901" />
+              <mxPoint x="422" y="901" />
+              <mxPoint x="422" y="636" />
+            </Array>
+            <mxPoint x="471" y="741" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-52" value="count++" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="451" y="830" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-53" value="Yes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="477" y="781" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-63" target="NRf6T1NoVGA92quWr3LB-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-63" target="NRf6T1NoVGA92quWr3LB-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-63" value="i = 0; i &amp;lt; rowCount; i++)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="460" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-68" target="NRf6T1NoVGA92quWr3LB-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-68" value="str in array[i]" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="611" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-71" target="NRf6T1NoVGA92quWr3LB-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="930" />
+              <mxPoint x="390" y="930" />
+              <mxPoint x="390" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-71" value="columnCounts[i] = count" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="658" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-68" target="NRf6T1NoVGA92quWr3LB-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="701" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-74" target="NRf6T1NoVGA92quWr3LB-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-74" target="NRf6T1NoVGA92quWr3LB-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-74" value="i = 0; i &amp;lt; rowCount; i++" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="550" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-76" value="str in array[i]" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="705" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-78" value="count=0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="449" y="544.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-79" value="index=0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="819" y="877" as="sourcePoint" />
+            <mxPoint x="819" y="924" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-82" value="str.Lebgth&amp;nbsp;&lt;div&gt;&amp;lt;= 3&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="778" y="797" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="819" y="1070" />
+              <mxPoint x="730" y="1070" />
+              <mxPoint x="730" y="732" />
+            </Array>
+            <mxPoint x="758" y="732" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-84" value="resultArray[i][index] = str" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="759" y="926" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-85" value="Yes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="785" y="877" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="NRf6T1NoVGA92quWr3LB-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="818" y="757" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NRf6T1NoVGA92quWr3LB-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="1101" as="targetPoint" />
+            <mxPoint x="878" y="732" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="910" y="732" />
+              <mxPoint x="910" y="1090" />
+              <mxPoint x="720" y="1090" />
+              <mxPoint x="720" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-90" value="index++" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="990" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-91" target="NRf6T1NoVGA92quWr3LB-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-91" value="Print resultArray[i]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-93" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-96" target="NRf6T1NoVGA92quWr3LB-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-96" target="NRf6T1NoVGA92quWr3LB-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-96" value="str in array[i]" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="544.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-97" target="NRf6T1NoVGA92quWr3LB-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-97" value="count=0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-98" target="NRf6T1NoVGA92quWr3LB-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-98" value="index=0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="722" as="sourcePoint" />
+            <mxPoint x="80" y="769" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-104" value="str.Lebgth&amp;nbsp;&lt;div&gt;&amp;lt;= 3&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="39" y="642" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-105" target="NRf6T1NoVGA92quWr3LB-96">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="850" />
+              <mxPoint y="850" />
+              <mxPoint y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-105" value="count++" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="771" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-112" target="NRf6T1NoVGA92quWr3LB-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-112" target="NRf6T1NoVGA92quWr3LB-127">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="617" />
+              <mxPoint x="310" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-112" value="str in array[i]" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="169" y="592" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="770" as="sourcePoint" />
+            <mxPoint x="230" y="817" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-119" value="str.Lebgth&amp;nbsp;&lt;div&gt;&amp;lt;= 3&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="189" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-120" target="NRf6T1NoVGA92quWr3LB-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-120" value="resultArray[i][index] = str" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="819" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-121" value="Yes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="196" y="770" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-122" target="NRf6T1NoVGA92quWr3LB-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="231" y="940" />
+              <mxPoint x="149" y="940" />
+              <mxPoint x="149" y="617" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-122" value="index++" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="883" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NRf6T1NoVGA92quWr3LB-127" target="NRf6T1NoVGA92quWr3LB-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-127" value="Print resultArray[i]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NRf6T1NoVGA92quWr3LB-128" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="980" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
